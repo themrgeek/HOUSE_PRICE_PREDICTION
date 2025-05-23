@@ -19,16 +19,8 @@ This project aims to predict house prices across Ontario, Canada, using various 
 
 ## 🗂️ Directory Structure
 
-.
-├── main.m                    # Main pipeline script
-├── load_and_preprocess.m    # Data loading and preprocessing
-├── train_models.m           # Model training (ANN, RF, SVR, DT, optional LSTM)
-├── test_models.m            # Model evaluation and metrics
-├── visualize_results.m      # Visualization: predictions, errors, and heatmaps
-├── plot_heatmap.m           # Feature importance heatmap
-├── data.xlsx                # Input dataset (not included due to restrictions)
-├── REPORT.pdf               # Final project report
-└── README.md                # Project overview
+<img width="651" alt="Screenshot 2025-05-23 at 3 13 17 PM" src="https://github.com/user-attachments/assets/eee56a3b-311c-458e-8e28-c76fe0483113" />
+
 ---
 
 ## 📁 Dataset
