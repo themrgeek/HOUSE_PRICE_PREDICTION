@@ -25,7 +25,6 @@ This project aims to predict house prices across Ontario, Canada, using various 
 
 ## 📁 Dataset
 
-- **Source**: Originally from Kaggle (now private)
 - **Scraped from**: [Zoocasa Toronto Real Estate](https://www.zoocasa.com/toronto-on-real-estate)
 - **Backup**: [GitHub Mirror](https://github.com/slavaspirin/Toronto-housing-price-prediction/blob/master/data.xlsx)
 
