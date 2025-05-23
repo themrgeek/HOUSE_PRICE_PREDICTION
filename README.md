@@ -70,4 +70,3 @@ This project aims to predict house prices across Ontario, Canada, using various 
 3. Open MATLAB and run the following in the command window:
 
 ```matlab
->> main
