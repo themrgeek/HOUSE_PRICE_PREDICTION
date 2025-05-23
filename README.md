@@ -58,10 +58,10 @@ This project aims to predict house prices across Ontario, Canada, using various 
 
 | Model | RMSE | MAE | R² | Accuracy ±5% | Accuracy ±10% | Median Accuracy |
 |-------|------|-----|----|---------------|----------------|------------------|
-| **SVM** | 607,381.24 | Moderate | Moderate | 9.6% | 18.7% | Good |
-| **RF**  | 629,868     | Strong   | Good     | —   | —   | Strong |
-| **ANN** | 587,940     | 382,122  | Low      | —   | —   | Weak |
-| **DT**  | Poor        | Poor     | Overfit  | —   | —   | Low  |
+| **SVM** | 607,381.24 | Moderate | Moderate | 68.8% | 18.7% | Good |
+| **RF**  | 629,868     | Strong   | Good     | 60.5%   | —   | Strong |
+| **ANN** | 587,940     | 382,122  | Low      | 60.2%   | —   | Weak |
+| **DT**  | Poor        | Poor     | Overfit  | 61.2   | —   | Low  |
 
 > **Conclusion**: SVM delivered the best balance of accuracy and practicality. RF offered interpretability and decent error margins. ANN struggled with R², and DT suffered from overfitting.
 
